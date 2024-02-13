@@ -33,7 +33,7 @@
 Follow these 4 straightforward steps to deploy HellBot on Heroku:
 
 1. **Fork & Star this Repo:**
-    > Begin by [forking](https://github.com/The-Hellbot/Hellbot/fork) and [starring](https://github.com/The-Hellbot/Hellbot/) this repository on GitHub.
+    > Begin by [forking](https://github.com/PB65-Aujla/Hellbot/fork) and [starring](https://github.com/PB65-Aujla/HellBot) this repository on GitHub.
 
 2. **Heroku Account Login:**
    > Ensure you are logged into your [Heroku account](https://dashboard.heroku.com) before proceeding.
@@ -68,7 +68,7 @@ Hellbot can be deployed on any Linux VPS and terminal.
    
 3. **Clone Github repository:**
    ```bash
-   git clone https://github.com/The-HellBot/Plugins HellBot && cd HellBot
+   git clone https://github.com/PB65-Aujla/Plugins HellBot && cd HellBot
    ```
 
 4. **Edit Config Variables:**
@@ -153,7 +153,7 @@ Should you require assistance, kindly engage with our support group for communit
     Copyright (C) 2024 <a href="https://github.com/The-HellBot">The-HellBot</a>
 </h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [HellBot](https://github.com/PB65-Aujla/HellBot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -167,7 +167,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </br>
 
 <h2 align="center">
-    Made with ❤️ by <a href="https://github.com/HellBoy-OP">Anand</a>
+    Made with ❤️ by <a href="https://github.com/PB65-Aujla">Anand</a>
 </h2>
 
 ---
