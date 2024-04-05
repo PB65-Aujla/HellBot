@@ -1,7 +1,7 @@
 {
     "name": "The HellBot",
     "description": "🚀 Telegram Bot on steroids! Packed with the latest commands, limitless features, etc. Unleash the ultimate power of customization and automation like never before!",
-    "logo": "https://te.legra.ph/file/31c5a08f0941b8fbb3f66.png",
+    "logo": "https://graph.org/file/2014271ca39345f83024b.jpg",
     "keywords": [
         "telegram",
         "userbot",
@@ -9,7 +9,7 @@
         "pyrogram",
         "hellbot"
     ],
-    "repository": "https://github.com/PB65-Aujla/HellBot",
+    "repository": "https://github.com/PB65-Aujla/HellBot/",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
@@ -50,12 +50,12 @@
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
-            "value": "The-HellBot/Plugins",
+            "value": "PB65-Aujla/Plugins",
             "required": false
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "The-HellBot/HellBot",
+            "value": "PB65-Aujla/HellBot",
             "required": false
         }
     },
@@ -67,7 +67,7 @@
             "url": "https://github.com/heroku/heroku-buildpack-google-chrome"
         },
         {
-            "url": "https://github.com/heroku/heroku-buildpack-chromedriver"
+            "url": "https://github.com/heroku/heroku-buildpack-chrome-for-testing"
         },
         {
             "url": "https://github.com/heroku/heroku-buildpack-apt.git"
